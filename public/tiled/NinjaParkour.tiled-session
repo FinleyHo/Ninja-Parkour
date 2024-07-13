@@ -1,0 +1,139 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx": {
+            "scale": 0.64,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 815.625,
+                "y": 840.625
+            }
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx#checkpoint": {
+            "scaleInDock": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx#ice": {
+            "scaleInDock": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx#spikes": {
+            "scaleInDock": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx#terrain": {
+            "scaleInDock": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx#trampoline": {
+            "scaleInDock": 1
+        },
+        "C:/Users/maxbotta/Documents/platformer/platformer1.tmx": {
+            "scale": 0.86,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800,
+                "y": 400
+            }
+        },
+        "C:/Users/maxbotta/Documents/platformer/platformer1.tmx#terrain": {
+            "scaleInDock": 1
+        },
+        "level1.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 980.75,
+                "y": 2416.25
+            }
+        },
+        "level1.tmx#Back_Brown": {
+            "scaleInDock": 2.5207
+        },
+        "level1.tmx#Idle": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#SandMudIce": {
+            "scaleInDock": 2.4784
+        },
+        "level1.tmx#Saw": {
+            "scaleInDock": 4.3117
+        },
+        "level1.tmx#Spikes": {
+            "scaleInDock": 5.9412,
+            "scaleInEditor": 2.69
+        },
+        "level1.tmx#Terrain": {
+            "scaleInDock": 1.885,
+            "scaleInEditor": 2.69
+        },
+        "level1.tmx#back_brown": {
+            "scaleInDock": 5,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#fire": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 3
+        },
+        "level1.tmx#sand_mud_ice": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#saw": {
+            "scaleInDock": 4.3117,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#spikes": {
+            "scaleInDock": 5,
+            "scaleInEditor": 3
+        },
+        "level1.tmx#terrain": {
+            "scaleInDock": 5
+        },
+        "level1.tmx#terrain_collide": {
+            "scaleInDock": 5,
+            "scaleInEditor": 2.69
+        },
+        "level1.tmx#trampoline": {
+            "scaleInDock": 5,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#trampoline---------------------------": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/finle/OneDrive/Desktop/Ninja_Parkour/public/tiled",
+    "last.imagePath": "C:/Users/finle/OneDrive/Desktop/Ninja Parkour/assets/PixelAdventure/Traps/Trampoline",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 800,
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+        "level1.tmx"
+    ],
+    "project": "NinjaParkour.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level1.tmx",
+        "C:/Users/maxbotta/Documents/platformer/level2.tmx",
+        "C:/Users/maxbotta/Documents/platformer/platformer1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 28,
+        "width": 28
+    }
+}
